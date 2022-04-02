@@ -1,0 +1,15 @@
+https://pl.spoj.com/problems/RNO_DOD/
+https://pl.spoj.com/problems/PP0502B/
+https://pl.spoj.com/problems/VSR/
+https://pl.spoj.com/problems/PP0501A/
+https://pl.spoj.com/problems/POTSAM/
+https://pl.spoj.com/problems/SUMA/
+https://pl.spoj.com/problems/CALC/
+https://pl.spoj.com/problems/PTROL/
+https://pl.spoj.com/problems/POL/
+https://pl.spoj.com/problems/PP0602A/
+https://pl.spoj.com/problems/PP0602D/
+https://pl.spoj.com/problems/ROWNANIE/
+https://pl.spoj.com/problems/JROWLIN/
+https://pl.spoj.com/problems/JSZYCER/
+https://pl.spoj.com/problems/JSPACE/
