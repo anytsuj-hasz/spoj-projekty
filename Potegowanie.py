@@ -1,5 +1,6 @@
-n = int(input())
+# https://pl.spoj.com/problems/PA05_POT/
 
+n = int(input())
 lista = []
 
 for _ in range(n):

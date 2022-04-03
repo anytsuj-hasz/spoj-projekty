@@ -1,7 +1,4 @@
-n = int(input())
-
-
-lista=[]
+# https://pl.spoj.com/problems/PRIME_T/
 
 
 def czy_pierwsza(n):
@@ -13,6 +10,9 @@ def czy_pierwsza(n):
             return False
     return True
 
+
+n = int(input())
+lista=[]
 
 for _ in range(n):
     liczba = int(input())

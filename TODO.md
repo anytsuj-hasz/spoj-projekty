@@ -1,6 +1,4 @@
-https://pl.spoj.com/problems/RNO_DOD/
 https://pl.spoj.com/problems/PP0502B/
-https://pl.spoj.com/problems/VSR/
 https://pl.spoj.com/problems/PP0501A/
 https://pl.spoj.com/problems/POTSAM/
 https://pl.spoj.com/problems/SUMA/
