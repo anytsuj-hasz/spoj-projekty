@@ -11,15 +11,16 @@ def czy_pierwsza(n):
     return True
 
 
-n = int(input())
-lista=[]
+if __name__ == '__main__':
+    n = int(input())
+    lista = []
 
-for _ in range(n):
-    liczba = int(input())
-    if czy_pierwsza(liczba):
-        lista.append("TAK")
-    else:
-        lista.append("NIE")
+    for _ in range(n):
+        liczba = int(input())
+        if czy_pierwsza(liczba):
+            lista.append("TAK")
+        else:
+            lista.append("NIE")
 
-for wynik in lista:
-    print(wynik)
+    for wynik in lista:
+        print(wynik)
