@@ -1,6 +1,4 @@
-https://pl.spoj.com/problems/PP0502B/
 https://pl.spoj.com/problems/PP0501A/
-https://pl.spoj.com/problems/CALC/
 https://pl.spoj.com/problems/PTROL/
 https://pl.spoj.com/problems/POL/
 https://pl.spoj.com/problems/PP0602A/
