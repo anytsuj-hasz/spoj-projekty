@@ -15,3 +15,16 @@ for i in range(int(przesuniecie)):
 
 print(lista)
 
+# https://pl.spoj.com/problems/PTROL/
+
+lista2 = []
+liczby = input().split()
+for liczba in liczby:
+    liczbaInt = int(liczba)
+    lista2.append(liczbaInt)
+
+for i in range(1):
+    lista2.append(lista2.pop(0))
+
+print(lista2)
+
